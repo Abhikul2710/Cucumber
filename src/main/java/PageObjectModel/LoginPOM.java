@@ -3,7 +3,7 @@ package PageObjectModel;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-
+//new comment added
 public class LoginPOM {
 	public WebDriver driver;
 	private By username = By.xpath("//input[@id='username']");
